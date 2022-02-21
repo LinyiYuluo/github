@@ -1,0 +1,5 @@
+﻿  做题.cpp
+D:\练习代码\Project5\做题.cpp(103,9): warning C4778: “printf”: 格式字符串“%ll”未终止
+D:\练习代码\Project5\做题.cpp(103,16): warning C4474: printf: 格式字符串中传递的参数太多
+D:\练习代码\Project5\做题.cpp(103,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  Project5.vcxproj -> D:\练习代码\Project5\Debug\Project5.exe
