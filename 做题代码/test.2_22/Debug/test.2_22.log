@@ -1,0 +1,22 @@
+﻿  test.2_22.cpp
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(92,12): error C2001: 常量中有换行符
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(94,1): error C2019: 应输入预处理器指令，却找到“#”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(95,1): error C2019: 应输入预处理器指令，却找到“.”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(96,1): error C2019: 应输入预处理器指令，却找到“#”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(97,9): error C2059: 语法错误:“...”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(97,35): error C2014: 预处理器命令必须作为第一个非空白空间启动
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(98,1): error C2019: 应输入预处理器指令，却找到“#”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(99,1): error C2019: 应输入预处理器指令，却找到“#”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(100,12): error C2014: 预处理器命令必须作为第一个非空白空间启动
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(101,25): error C2014: 预处理器命令必须作为第一个非空白空间启动
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(103,1): error C2019: 应输入预处理器指令，却找到“#”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(104,1): error C2019: 应输入预处理器指令，却找到“#”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(105,1): error C2019: 应输入预处理器指令，却找到“#”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(106,1): error C2019: 应输入预处理器指令，却找到“.”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(107,1): error C2019: 应输入预处理器指令，却找到“#”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(108,1): error C2019: 应输入预处理器指令，却找到“.”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(109,1): error C2019: 应输入预处理器指令，却找到“#”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(110,1): error C2019: 应输入预处理器指令，却找到“.”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(111,1): error C2019: 应输入预处理器指令，却找到“#”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(112,1): error C2019: 应输入预处理器指令，却找到“.”
+D:\github program\github\做题代码\test.2_22\test.2_22.cpp(113,1): error C2019: 应输入预处理器指令，却找到“#”
